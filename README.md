@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>project:gus and his life</title>
+    </head>
+    <body>
+<h1>gus and when we got him</h1>
+
+
+  </body>
+</html>
